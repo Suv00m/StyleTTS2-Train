@@ -19,7 +19,7 @@
     - in the "Name files" section, choose "Numbering after File name prefix" and choose a prefix that you'll also use in the TTS training Notebook (such as "B1" or similar)
     - click on Export
 ### automatically
-- use the [audio from whisper](https://colab.research.google.com/drive/1ZK-2lAV2DokrN92sYPJRl47XyuuluCJe?usp=sharing)
+- use the [audio labels from whisper](https://colab.research.google.com/drive/1ZK-2lAV2DokrN92sYPJRl47XyuuluCJe?usp=sharing)
 ## **Step 2:prepare your audio file from one long single audio.**
 - use "wavs preparation after label.ipynb"
 ## **Step 3:upload the zip file to google drive**
@@ -28,7 +28,7 @@
 ## **Step 4:prepare your audio file from one long single audio.**
 - use "StyleTTS2_Finetune.ipynb" to train
 ## **references:**
-- [audio from whisper](https://colab.research.google.com/drive/1ZK-2lAV2DokrN92sYPJRl47XyuuluCJe?usp=sharing)
+- [audio labels from whisper](https://colab.research.google.com/drive/1ZK-2lAV2DokrN92sYPJRl47XyuuluCJe?usp=sharing)
 - [styletts2 colab](https://colab.research.google.com/github/yl4579/StyleTTS2/blob/main/)
 - [training](https://colab.research.google.com/drive/1PdcCcTUUYAxBM3_mDT2_UNz0ZoUkMee_#scrollTo=w68FokB4sjw2)
 

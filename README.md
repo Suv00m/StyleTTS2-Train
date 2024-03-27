@@ -27,6 +27,8 @@
 - get the id 
 ## **Step 4:Now train styletts2 using this notebook**
 - use "StyleTTS2_Finetune.ipynb" to train
+- to use first train and 2nd train scripts: [training](https://colab.research.google.com/drive/1PdcCcTUUYAxBM3_mDT2_UNz0ZoUkMee_#scrollTo=w68FokB4sjw2)
+
 ## **references:**
 - [audio labels from whisper](https://colab.research.google.com/drive/1ZK-2lAV2DokrN92sYPJRl47XyuuluCJe?usp=sharing)
 - [styletts2 colab](https://colab.research.google.com/github/yl4579/StyleTTS2/blob/main/)

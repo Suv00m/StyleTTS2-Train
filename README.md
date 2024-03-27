@@ -25,7 +25,7 @@
 ## **Step 3:upload the zip file to google drive**
 - set it to share it with "anyone with the link"
 - get the id 
-## **Step 4:prepare your audio file from one long single audio.**
+## **Step 4:Now train styletts2 using this notebook**
 - use "StyleTTS2_Finetune.ipynb" to train
 ## **references:**
 - [audio labels from whisper](https://colab.research.google.com/drive/1ZK-2lAV2DokrN92sYPJRl47XyuuluCJe?usp=sharing)

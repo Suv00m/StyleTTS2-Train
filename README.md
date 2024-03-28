@@ -27,9 +27,6 @@
 - get the id 
 ## **Step 4:Now train styletts2 using this notebook**
 - some rules to follow before hand
-
-  - Simply create a new folder under Utils in your StyleTTS2 repository. Call
-  it, for example, PLBERT_all_languages.
   - Copy paste into it config.yml, step_1100000.t7 and util.py.
   - After that, you can just replace the relevant files in Utils/PLBERT and not have to change any code.
   - prepare the file as above said.

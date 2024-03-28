@@ -26,8 +26,14 @@
 - set it to share it with "anyone with the link"
 - get the id 
 ## **Step 4:Now train styletts2 using this notebook**
-- use "StyleTTS2_Finetune.ipynb" to train
-- to use first train and 2nd train scripts: [training](https://colab.research.google.com/drive/1PdcCcTUUYAxBM3_mDT2_UNz0ZoUkMee_#scrollTo=w68FokB4sjw2)
+- some rules to follow before hand
+
+  - Simply create a new folder under Utils in your StyleTTS2 repository. Call
+  it, for example, PLBERT_all_languages.
+  - Copy paste into it config.yml, step_1100000.t7 and util.py.
+  - After that, you can just replace the relevant files in Utils/PLBERT and not have to change any code.
+  - prepare the file as above said.
+- to use first train and 2nd train scripts: [training](https://colab.research.google.com/drive/1PdcCcTUUYAxBM3_mDT2_UNz0ZoUkMee_#scrollTo=w68FokB4sjw2) or fintune
 
 ## **references:**
 - [audio labels from whisper](https://colab.research.google.com/drive/1ZK-2lAV2DokrN92sYPJRl47XyuuluCJe?usp=sharing)

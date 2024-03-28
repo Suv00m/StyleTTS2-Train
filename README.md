@@ -27,7 +27,7 @@
 - get the id 
 ## **Step 4:Now train styletts2 using this notebook**
 - some rules to follow before hand
-  - Copy paste into it config.yml, step_1100000.t7 and util.py.
+  - Copy paste into it config.yml, step_1100000.t7 and util.py from the multilingual pbert dir.
   - After that, you can just replace the relevant files in Utils/PLBERT and not have to change any code.
   - prepare the file as above said.
 - to use first train and 2nd train scripts: [training](https://colab.research.google.com/drive/1PdcCcTUUYAxBM3_mDT2_UNz0ZoUkMee_#scrollTo=w68FokB4sjw2) or fintune
